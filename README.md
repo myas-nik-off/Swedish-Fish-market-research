@@ -8,4 +8,4 @@ What's the expected number of sign-ups if 500 people receive brochures from Meth
 Compare Method A with Method B, considering the CEO's expectation of a 5-15% subscription rate.
 Examine the cost and profit comparison between Method A and B through their posterior distributions. (Costs could be determened by us)
 
-Co-authored-by: Aymen Omar AB Alharm, Chandrika Nayanakanthi Weerasinghe.
+Co-authored-by: Aymen Omar AB Alharm, Chandrika Nayanakanthi Weerasinghe Weerasinghe Mudiyanselage.
